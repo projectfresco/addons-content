@@ -1,5 +1,5 @@
 {
-    "lastUpdated": 1676158669,
+    "lastUpdated": 1676166061,
     "applications": [
         {
             "name": "toolkit",
@@ -1758,6 +1758,7 @@
             "owners": [7, 11],
             "iconUrl": "https://raw.githubusercontent.com/gorhill/uBlock-for-firefox-legacy/master/src/img/ublock.svg",
             "license": "GPL-3.0",
+            "keywords": "ubo adblock",
             "ghInfo": {
                 "owner": "gorhill",
                 "repo": "uBlock-for-firefox-legacy"
@@ -1771,6 +1772,7 @@
             "owners": [7],
             "iconUrl": "https://raw.githubusercontent.com/JustOff/ca-archive/master/icon.png",
             "license": "MPL-2.0",
+            "keywords": "caa ca-archive",
             "ghInfo": {
                 "owner": "JustOff",
                 "repo": "ca-archive"
