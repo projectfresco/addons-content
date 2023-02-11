@@ -1,5 +1,5 @@
 {
-    "lastUpdated": 1669341488,
+    "lastUpdated": 1676119166,
     "applications": [
         {
             "name": "toolkit",
@@ -1760,6 +1760,19 @@
             "ghInfo": {
                 "owner": "gorhill",
                 "repo": "uBlock-for-firefox-legacy"
+            }
+        },
+        {
+            "slug": "ca-archive",
+            "type": 2,
+            "name": "Classic Add-ons Archive",
+            "description": "Catalog of classic Firefox add-ons created before WebExtensions apocalypse",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/ca-archive/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "ca-archive"
             }
         }
     ]
