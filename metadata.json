@@ -1,5 +1,5 @@
 {
-    "lastUpdated": 1676119166,
+    "lastUpdated": 1676158517,
     "applications": [
         {
             "name": "toolkit",
@@ -1766,13 +1766,364 @@
             "slug": "ca-archive",
             "type": 2,
             "name": "Classic Add-ons Archive",
-            "description": "Catalog of classic Firefox add-ons created before WebExtensions apocalypse",
+            "description": "Catalog of classic Firefox add-ons created before WebExtensions apocalypse.",
             "owners": [7],
             "iconUrl": "https://raw.githubusercontent.com/JustOff/ca-archive/master/icon.png",
             "license": "MPL-2.0",
             "ghInfo": {
                 "owner": "JustOff",
                 "repo": "ca-archive"
+            }
+        },
+        {
+            "slug": "active-stop-button",
+            "type": 2,
+            "name": "Active Stop Button",
+            "description": "Stop GIF animation with button, context menu or Esc key.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/active-stop-button/master/icon.png",
+            "license": "BSD-2-Clause",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "active-stop-button"
+            }
+        },
+        {
+            "slug": "add-bookmark-helper",
+            "type": 2,
+            "name": "Add Bookmark Helper",
+            "description": "Add a menuitem 'Add Bookmark Here...' to Bookmarks Menu.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/add-bookmark-helper/master/icon.png",
+            "license": "MPL-1.1",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "add-bookmark-helper"
+            }
+        },
+        {
+            "slug": "age-unlimiter-yt",
+            "type": 2,
+            "name": "Age Unlimiter for YouTube",
+            "description": "Watch age restricted YouTube videos in Pale Moon without signing in.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/age-unlimiter-yt/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "age-unlimiter-yt"
+            }
+        },
+        {
+            "slug": "clt-mclick",
+            "type": 2,
+            "name": "Close last tab with middle-click",
+            "description": "Close last tab with middle mouse click.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/clt-mclick/master/icon.png",
+            "license": "COPYRIGHT",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "clt-mclick"
+            }
+        },
+        {
+            "slug": "cookies-exterminator",
+            "type": 2,
+            "name": "Cookies Exterminator",
+            "description": "Auto delete cookies, localStorage and IndexedDB objects as soon as they become unused.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/cookies-exterminator/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "cookies-exterminator"
+            }
+        },
+        {
+            "slug": "dismiss-the-overlay",
+            "type": 2,
+            "name": "Dismiss The Overlay",
+            "description": "Click to close any overlay on any website.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/dismiss-the-overlay/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "dismiss-the-overlay"
+            }
+        },
+        {
+            "slug": "emoji-assistant",
+            "type": 2,
+            "name": "Emoji Assistant",
+            "description": "Emoji cheatsheet extension for Pale Moon.",
+            "owners": [7],
+            "iconUrl": "https://justoff.github.io/images/emoji.png",
+            "license": "MIT",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "emoji-assistant"
+            }
+        },
+        {
+            "slug": "esrc-explorer",
+            "type": 2,
+            "name": "Extension Source Explorer",
+            "description": "Explore source code of various browsers extensions using CRX Viewer engine.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/esrc-explorer/master/xul/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "esrc-explorer"
+            }
+        },
+        {
+            "slug": "greedy-cache",
+            "type": 2,
+            "name": "Greedy Cache",
+            "description": "Always load scripts, images and styles from browser's cache.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/greedy-cache/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "greedy-cache"
+            }
+        },
+        {
+            "slug": "html5-video-tuner",
+            "type": 2,
+            "name": "HTML5 Media Tuner",
+            "description": "Selectively disable HTML5 Video/Audio and/or Media Source Extensions, control 60fps and WebM Video.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/html5-video-tuner/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "html5-video-tuner"
+            }
+        },
+        {
+            "slug": "location-4-evar",
+            "type": 2,
+            "name": "Location-4-Evar",
+            "description": "Show status and progress indicators in location bar.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/L4E/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "L4E"
+            }
+        },
+        {
+            "slug": "lull-the-tabs",
+            "type": 2,
+            "name": "Lull The Tabs",
+            "description": "Unload inactive tabs to free up browser memory.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/lull-the-tabs/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "lull-the-tabs"
+            }
+        },
+        {
+            "slug": "modify-http-response",
+            "type": 2,
+            "name": "Modify HTTP Response",
+            "description": "Rewrite HTTP response body using search & replace patterns.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/modify-http-response/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "modify-http-response"
+            }
+        },
+        {
+            "slug": "moonscribe",
+            "type": 2,
+            "name": "Moonscribe",
+            "description": "Unofficial Windscribe Proxy Client for Pale Moon.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/moonscribe/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "moonscribe"
+            }
+        },
+        {
+            "slug": "moon-tester-tool",
+            "type": 2,
+            "name": "Moon Tester Tool",
+            "description": "Allows to install any extension, regardless of target application and versions specified in its manifest.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/moon-tester-tool/master/icon.png",
+            "license": "MIT",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "moon-tester-tool"
+            }
+        },
+        {
+            "slug": "password-backup-tool",
+            "type": 2,
+            "name": "Password Backup Tool",
+            "description": "Export and import your saved passwords.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/password-backup-tool/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "password-backup-tool"
+            }
+        },
+        {
+            "slug": "photobucket-unlocker",
+            "type": 2,
+            "name": "Photobucket Unlocker",
+            "description": "Unlock access to embedded Photobucket images.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/photobucket-unlocker/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "photobucket-unlocker"
+            }
+        },
+        {
+            "slug": "proxy-privacy-ruler",
+            "type": 2,
+            "name": "Proxy Privacy Ruler",
+            "description": "Restrict Proxy by Private Windows, Tabs and Domain List.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/proxy-privacy-ruler/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "proxy-privacy-ruler"
+            }
+        },
+        {
+            "slug": "responsive-bookmarks-toolbar",
+            "type": 2,
+            "name": "Responsive Bookmarks Toolbar",
+            "description": "Auto expand folders in Bookmarks Toolbar on mouse hover.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/responsive-bookmarks-toolbar/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "responsive-bookmarks-toolbar"
+            }
+        },
+        {
+            "slug": "save-all-images",
+            "type": 2,
+            "name": "Save All Images",
+            "description": "Save images from pages and tabs.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/save-all-images/master/icon.png",
+            "license": "MPL-1.1",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "save-all-images"
+            }
+        },
+        {
+            "slug": "scriptlet-doctor",
+            "type": 2,
+            "name": "Scriptlet Doctor",
+            "description": "Allow inline scripts regardless of site policy.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/scriptlet-doctor/master/classic/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "scriptlet-doctor"
+            }
+        },
+        {
+            "slug": "send-link-to-device",
+            "type": 2,
+            "name": "Send Link to Device",
+            "description": "Send a tab or link to another device using Pale Moon Sync.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/send-link-to-device/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "send-link-to-device"
+            }
+        },
+        {
+            "slug": "pmforum-smart-preview",
+            "type": 2,
+            "name": "Smart Preview for Pale Moon forum",
+            "description": "Quick preview of forum content using a popup frame.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/pmforum-smart-preview/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "pmforum-smart-preview"
+            }
+        },
+        {
+            "slug": "speed-start",
+            "type": 2,
+            "name": "Speed Start",
+            "description": "Speed Dial & Start Page with flexible layout for fast access to sites via visual bookmarks.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/speed-start/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "speed-start"
+            }
+        },
+        {
+            "slug": "view-source-in-tab",
+            "type": 2,
+            "name": "View Source In Tab",
+            "description": "Open embedded source viewer within tab.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/view-source-in-tab/master/icon.png",
+            "license": "COPYRIGHT",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "view-source-in-tab"
+            }
+        },
+        {
+            "slug": "webinstall-ninja",
+            "type": 2,
+            "name": "WebInstall Ninja",
+            "description": "Save a copy of XPI packages when installing from the Web.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/webinstall-ninja/master/icon.png",
+            "license": "MPL-2.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "webinstall-ninja"
+            }
+        },
+        {
+            "slug": "youtube-lazy-load",
+            "type": 2,
+            "name": "YouTube Lazy Load",
+            "description": "Prevent YouTube from auto-load and auto-play videos.",
+            "owners": [7],
+            "iconUrl": "https://raw.githubusercontent.com/JustOff/youtube-lazy-load/master/icon.png",
+            "license": "GPL-3.0",
+            "ghInfo": {
+                "owner": "JustOff",
+                "repo": "youtube-lazy-load"
             }
         }
     ]
