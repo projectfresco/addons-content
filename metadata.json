@@ -1,5 +1,5 @@
 {
-    "lastUpdated": 1676158517,
+    "lastUpdated": 1676158669,
     "applications": [
         {
             "name": "toolkit",
@@ -730,7 +730,8 @@
             "type": "64",
             "name": "Polish Spellcheck Dictionary (pl-PL)",
             "owners": [6],
-            "license": "COPYRIGHT",
+            "license": "custom",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
             "releasesUrl": "static"
         },
         {
