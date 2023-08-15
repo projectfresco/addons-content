@@ -104,10 +104,17 @@
     ],
     "types": [
         {
+            "type": 1,
+            "slug": "applications",
+            "name": "Applications",
+            "description": "",
+            "defaultIcon": "assets/images/icon-application"
+        },
+        {
             "type": 2,
             "slug": "extensions",
             "name": "Extensions",
-            "description": "Extensions are small add-ons that add new functionality to Pale Moon, from a simple toolbar button to a completely new feature. They allow you to customize the browser to fit your own needs and preferences, while letting us keep the core itself light and lean.",
+            "description": "Extensions are small add-ons that add new functionality, from a simple toolbar button to a completely new feature. They allow you to customize the browser to fit your own needs and preferences, while letting us keep the core itself light and lean.",
             "defaultIcon": "assets/images/icon-extension.png"
         },
         {
@@ -2128,6 +2135,38 @@
                 "owner": "JustOff",
                 "repo": "youtube-lazy-load"
             }
+        },
+        {
+            "slug": "app-01",
+            "type": 1,
+            "name": "Pale Moon",
+            "description": "A web browser that focuses on efficiency, customization, and privacy.",
+            "iconUrl": "/addons-content/icons/palemoon.png",
+            "appUrl": "https://www.palemoon.org/"
+        },
+        {
+            "slug": "app-02",
+            "type": 1,
+            "name": "Basilisk",
+            "description": "A web browser that is designed to be a close twin to pre-Servo Firefox.",
+            "iconUrl": "/addons-content/icons/basilisk.png",
+            "appUrl": "https://www.basilisk-browser.org/"
+        },
+        {
+            "slug": "app-03",
+            "type": 1,
+            "name": "Epyrus",
+            "description": "A lightweight, fast, and privacy-focused email client.",
+            "iconUrl": "/addons-content/icons/epyrus.png",
+            "appUrl": "https://www.epyrus.org/"
+        },
+        {
+            "slug": "app-04",
+            "type": 1,
+            "name": "Ambassador",
+            "description": "A clean, extensible, and easy-to-use IRC client.",
+            "iconUrl": "/addons-content/icons/ambassador.png",
+            "appUrl": "https://github.com/Ascrod/ambassador/"
         }
     ]
 }
