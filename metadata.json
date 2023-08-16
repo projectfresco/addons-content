@@ -2140,6 +2140,7 @@
             "type": 1,
             "name": "Pale Moon",
             "description": "A web browser that focuses on efficiency, customization, and privacy.",
+            "owners": [-1],
             "iconUrl": "/addons-content/icons/palemoon.png",
             "appUrl": "https://www.palemoon.org/"
         },
@@ -2148,6 +2149,7 @@
             "type": 1,
             "name": "Basilisk",
             "description": "A web browser that is designed to be a close twin to pre-Servo Firefox.",
+            "owners": [-1],
             "iconUrl": "/addons-content/icons/basilisk.png",
             "appUrl": "https://www.basilisk-browser.org/"
         },
@@ -2156,6 +2158,7 @@
             "type": 1,
             "name": "Epyrus",
             "description": "A lightweight, fast, and privacy-focused email client.",
+            "owners": [-1],
             "iconUrl": "/addons-content/icons/epyrus.png",
             "appUrl": "https://www.epyrus.org/"
         },
@@ -2164,6 +2167,7 @@
             "type": 1,
             "name": "Ambassador",
             "description": "A clean, extensible, and easy-to-use IRC client.",
+            "owners": [-1],
             "iconUrl": "/addons-content/icons/ambassador.png",
             "appUrl": "https://github.com/Ascrod/ambassador/"
         }
