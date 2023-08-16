@@ -1195,7 +1195,7 @@
             }
         },
         {
-            "slug": "compactmoon",
+            "slug": "compact-moon",
             "type": 4,
             "name": "Compact Moon",
             "description": "A very clean and compact theme with classic buttons that minimizes vertical space consumed by menus & tool bars. Fork of \"Classic Compact\" by Ken Barbalace.",
@@ -1203,7 +1203,6 @@
             "iconUrl": "https://raw.githubusercontent.com/Lootyhoof/compactmoon/master/src/theme/icon.png",
             "supportUrl": "https://forum.palemoon.org/viewtopic.php?f=46&t=28016",
             "license": "MPL-2.0",
-            "mirrors": ["phoebus_pm"],
             "ghInfo": {
                 "owner": "Lootyhoof",
                 "repo": "compactmoon"
@@ -1345,7 +1344,7 @@
             }
         },
         {
-            "slug": "modokimoon",
+            "slug": "modoki-moon",
             "type": 4,
             "name": "Modoki Moon",
             "description": "Remake of the Modern Modoki theme for Pale Moon.",
@@ -1435,7 +1434,7 @@
             }
         },
         {
-            "slug": "pastmodern-revisited",
+            "slug": "past-modern-revisited",
             "type": 4,
             "name": "Past Modern Revisited",
             "description": "Remake of the classic Past Modern theme by Kuden for Pale Moon.",
@@ -1510,7 +1509,7 @@
             }
         },
         {
-            "slug": "qute4pm",
+            "slug": "qute-4-pm",
             "type": 4,
             "name": "Qute 4 PM",
             "description": "Customized version of Arvid Axelsson's great theme with the new Qute 4 icon set. Fork of \"Qute 4++ (custom mod)\" by Murphy.",
@@ -1525,7 +1524,7 @@
             }
         },
         {
-            "slug": "qutelarge",
+            "slug": "qute-large",
             "type": 4,
             "name": "Qute Large",
             "description": "Large version of the Qute theme by Arvid Axelsson for Pale Moon. Based on \"Qute 3++\" using icons from \"Qute Classic\".",
@@ -1540,7 +1539,7 @@
             }
         },
         {
-            "slug": "qutelegacy",
+            "slug": "qute-legacy",
             "type": 4,
             "name": "Qute Legacy",
             "description": "Customized version of Arvid Axelsson's great theme. Fork of \"Qute 3++\" by Murphy.",
@@ -1615,7 +1614,7 @@
             }
         },
         {
-            "slug": "whitemoon",
+            "slug": "white-moon",
             "type": 4,
             "name": "White Moon",
             "description": "Paint your Pale Moon white. Make it look simpler, nicer. Fork of \"Simple White\" by Louis Chan.",
