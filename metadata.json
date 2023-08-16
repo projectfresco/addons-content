@@ -1107,7 +1107,7 @@
         },
         {
             "slug": "moonscape-icon-pack",
-            "type": 4,
+            "type": 2,
             "name": "Moonscape Icon Pack",
             "description": "Modifies the window icons to match Netscape 4.x.",
             "owners": [0],
