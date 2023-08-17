@@ -104,6 +104,10 @@
         {
             "username": "dephormation",
             "displayName": "Dephormation"
+        },
+        {
+            "username": "janekptacijarabaci",
+            "displayName": "janekptacijarabaci"
         }
     ],
     "types": [
@@ -2416,6 +2420,17 @@
             "iconUrl": "https://addons.palemoon.org/datastore/addons/windosize/icon.png",
             "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Windosize/",
             "keywords": "windosize window size resize shrink enlarge"
+        },
+        {
+            "slug": "greasemonkey-unofficial",
+            "type": 2,
+            "name": "Greasemonkey for Pale Moon",
+            "description": "A user script manager.",
+            "owners": [13],
+            "iconUrl": "https://raw.githubusercontent.com/janekptacijarabaci/greasemonkey/3.31.4Fork/skin/icon64.png",
+            "license": "custom",
+            "licenseUrl": "https://raw.githubusercontent.com/janekptacijarabaci/greasemonkey/master/CREDITS",
+            "releasesUrl": "static"
         }
     ]
 }

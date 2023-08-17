@@ -1,0 +1,67 @@
+{
+    "totalDownloadCount": 14941,
+    "stable": "3.31.4Fork",
+    "prerelease": "",
+    "data": {
+        "3.31.4Fork": {
+            "name": "3.31.4Fork",
+            "changelog": "",
+            "prerelease": false,
+            "datePublished": "2018-08-05T05:10:26Z",
+            "dateCreated": "2018-08-05T04:40:07Z",
+            "zipballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/zipball/3.31.4Fork",
+            "tarballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/tarball/3.31.4Fork",
+            "xpi": {
+                "url": "https://github.com/janekptacijarabaci/greasemonkey/releases/download/3.31.4Fork/greasemonkey-3.31.4-pm_forkBranch.xpi",
+                "hash": "",
+                "size": 395207,
+                "downloadCount": 12798
+            }
+        },
+        "3.12.1beta12ForkExperimental": {
+            "name": "3.12.1beta12ForkExperimental",
+            "changelog": "",
+            "prerelease": false,
+            "datePublished": "2017-08-03T15:14:46Z",
+            "dateCreated": "2017-08-03T15:05:43Z",
+            "zipballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/zipball/3.12.1beta12ForkExperimental",
+            "tarballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/tarball/3.12.1beta12ForkExperimental",
+            "xpi": {
+                "url": "https://github.com/janekptacijarabaci/greasemonkey/releases/download/3.12.1beta12ForkExperimental/greasemonkey-3.12.1beta1-pm_forkBranch_experimental.xpi",
+                "hash": "",
+                "size": 360373,
+                "downloadCount": 629
+            }
+        },
+        "3.9.3.1ForkExperimental": {
+            "name": "3.9.3.1ForkExperimental",
+            "changelog": "",
+            "prerelease": false,
+            "datePublished": "2017-03-02T08:55:13Z",
+            "dateCreated": "2017-02-22T12:02:08Z",
+            "zipballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/zipball/3.9.3.1ForkExperimental",
+            "tarballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/tarball/3.9.3.1ForkExperimental",
+            "xpi": {
+                "url": "https://github.com/janekptacijarabaci/greasemonkey/releases/download/3.9.3.1ForkExperimental/greasemonkey-3.9.3.1-fx_forkBranch_PaleMoon_experimental.xpi",
+                "hash": "",
+                "size": 351980,
+                "downloadCount": 1346
+            }
+        },
+        "3.9.2Fork": {
+            "name": "3.9.2Fork",
+            "changelog": "",
+            "prerelease": false,
+            "datePublished": "2016-12-05T07:27:05Z",
+            "dateCreated": "2016-12-05T07:25:17Z",
+            "zipballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/zipball/3.9.2Fork",
+            "tarballUrl": "https://api.github.com/repos/janekptacijarabaci/greasemonkey/tarball/3.9.2Fork",
+            "xpi": {
+                "url": "https://github.com/janekptacijarabaci/greasemonkey/releases/download/3.9.2Fork/greasemonkey-3.7.1-fx_forkBranch_SeaMonkey_PaleMoon.xpi",
+                "hash": "",
+                "size": 337812,
+                "downloadCount": 168
+            }
+        }
+    }
+}
