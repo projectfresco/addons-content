@@ -942,16 +942,16 @@
             "releasesUrl": "static"
         },
         {
-            "slug": "tagfil-dictionary",
+            "slug": "tl-spellcheck-dictionary",
             "type": 64,
-            "name": "Tagalog/Filipino Dictionary",
+            "name": "Tagalog Spellcheck Dictionary",
             "description": "A Filipino language spellchecker based on the current orthography.",
             "owners": [0],
             "license": "GPL-2.0",
             "mirrors": ["amo"],
             "ghInfo": {
-                "owner": "FranklinDM",
-                "repo": "tagfil-dictionary"
+                "owner": "fofajardo",
+                "repo": "tagalog-spellcheck-dictionary"
             }
         },
         {
