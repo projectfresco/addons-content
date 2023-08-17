@@ -100,6 +100,10 @@
         {
             "username": "gorhill",
             "displayName": "Raymond Hill"
+        },
+        {
+            "username": "dephormation",
+            "displayName": "Dephormation"
         }
     ],
     "types": [
@@ -1726,24 +1730,6 @@
             "externalUrl": "https://addons.palemoon.org/addon/halloween/"
         },
         {
-            "slug": "ex-031",
-            "type": 4,
-            "name": "In The Dark",
-            "description": "A dark, simple, grayscale theme for Pale Moon.",
-            "owners": [5],
-            "iconUrl": "https://archive.palemoon.org/addons/29.x/addons/ex-031/icon.png",
-            "externalUrl": "https://realityripple.com/Software/Themes/In-The-Dark/Pale-Moon/"
-        },
-        {
-            "slug": "ex-039",
-            "type": 4,
-            "name": "In The Dark (Bloodmoon Edition)",
-            "description": "A dark, simple, red-tinted theme for Pale Moon.",
-            "owners": [5],
-            "iconUrl": "https://archive.palemoon.org/addons/29.x/addons/ex-039/icon.png",
-            "externalUrl": "https://realityripple.com/Software/Themes/In-The-Dark/Pale-Moon/Bloodmoon-Edition/"
-        },
-        {
             "slug": "palefill",
             "type": 2,
             "name": "Palefill",
@@ -2170,6 +2156,266 @@
             "owners": [-1],
             "iconUrl": "/addons-content/icons/ambassador.png",
             "appUrl": "https://github.com/Ascrod/ambassador/"
+        },
+        {
+            "slug": "ex-033",
+            "type": 2,
+            "name": "About Add-ons",
+            "description": "Adds an About button to extensions, themes, and languages in the Add-ons list.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-033/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/About-Add-ons/",
+            "keywords": "about add-ons add-on add on ons"
+        },
+        {
+            "slug": "babbleon",
+            "type": 2,
+            "name": "BabbleOn",
+            "description": "Automatically translate pages using Google Translate.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/babbleon/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/BabbleOn/",
+            "keywords": "babbleon babble on google translate page"
+        },
+        {
+            "slug": "bizarre",
+            "type": 2,
+            "name": "BIZARRE",
+            "description": "Adds zoom functionality for images.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/bizarre/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/BIZARRE/",
+            "keywords": "bizarre image zoom rotate picture photo enlarge shrink"
+        },
+        {
+            "slug": "cookiepage",
+            "type": 2,
+            "name": "CookiePage",
+            "description": "View cookies of the current web page.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/cookiepage/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/CookiePage/",
+            "keywords": "cookiepage cookie page web cookies view check"
+        },
+        {
+            "slug": "extexp",
+            "type": 2,
+            "name": "ExtExp",
+            "description": "Places an Export Button on each extension and theme in your Add-ons Manager.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-035/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/ExtExp/",
+            "keywords": "extexp export extension theme backup save"
+        },
+        {
+            "slug": "favidico",
+            "type": 2,
+            "name": "Favidico",
+            "description": "Use identicons to automatically generate favicons for sites without one.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/favidico/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Favidico/",
+            "keywords": "favicido favicon identicon ident icon"
+        },
+        {
+            "slug": "fierr",
+            "type": 2,
+            "name": "Fierr",
+            "description": "Replaces the error page with a more stylish appearance with additional features.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-030/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Fierr/",
+            "keywords": "fierr error appearance"
+        },
+        {
+            "slug": "gaiaformat",
+            "type": 2,
+            "name": "GaiaFormat",
+            "description": "An enhanced text formatter for GaiaOnline Forums, Private Messages, Guilds, and Profile comments.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-032/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/GaiaFormat/",
+            "keywords": "gaiaformat gaia format gaiaonline online"
+        },
+        {
+            "slug": "grabit",
+            "type": 2,
+            "name": "Grabit",
+            "description": "A port of FlashGot for Pale Moon.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/grabit/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Grabit/",
+            "keywords": "grabit flashgot flash got download manager"
+        },
+        {
+            "slug": "hterr",
+            "type": 2,
+            "name": "HTerr",
+            "description": "Display fallback error pages for HTTP errors if no content is sent.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/hterr/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/HTerr/",
+            "keywords": "hterr error http page"
+        },
+        {
+            "slug": "in-the-dark",
+            "type": 4,
+            "name": "In The Dark",
+            "description": "A dark, simple, grayscale theme for Pale Moon.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/in-the-dark/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Themes/In-The-Dark/Pale-Moon/",
+            "keywords": "in the dark grey gray greyscale grayscale simple dim"
+        },
+        {
+            "slug": "in-the-dark-be",
+            "type": 4,
+            "name": "In The Dark (Bloodmoon Edition)",
+            "description": "A dark, simple, red-tinted theme for Pale Moon.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/in-the-dark-be/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Themes/In-The-Dark/Pale-Moon/Bloodmoon-Edition/",
+            "keywords": "in the dark bloodmoon blood moon dark red dim"
+        },
+        {
+            "slug": "liveclick-lunar",
+            "type": 2,
+            "name": "LiveClick Lunar",
+            "description": "Adds feed reading and notifications to Live Bookmarks.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/liveclick-lunar/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/LiveClick-Lunar/",
+            "keywords": "liveclick live click lunar bookmark bookmarks rss feed reader"
+        },
+        {
+            "slug": "mtube",
+            "type": 2,
+            "name": "MTube",
+            "description": "Load the mobile version whenever visiting YouTube.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/mtube/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/muTube/",
+            "keywords": "mtube youtube video"
+        },
+        {
+            "slug": "nowweather",
+            "type": 2,
+            "name": "NowWeather",
+            "description": "Current weather provided by the National Digital Forecast Database.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/nowweather/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/NowWeather/",
+            "keywords": "nowweather now weather forecast"
+        },
+        {
+            "slug": "open-registry-key",
+            "type": 2,
+            "name": "Open Registry Key",
+            "description": "Open selected registry in the registry editor from context menu.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/open-registry-key/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Open-Registry-Key/",
+            "keywords": "open registry key reg edit regedit editor"
+        },
+        {
+            "slug": "palesomething",
+            "type": 2,
+            "name": "Palesomething",
+            "description": "Change the product name in various parts of the browser. Random name generation ensures perpetual humor.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-038/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Palesomething/",
+            "keywords": "palesomething pale something name random"
+        },
+        {
+            "slug": "pang",
+            "type": 2,
+            "name": "Pang",
+            "description": "Display the response time (ping) of the current webpage.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/pang/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Pang/",
+            "keywords": "pang latency ping response time"
+        },
+        {
+            "slug": "qrthis",
+            "type": 2,
+            "name": "qrThis",
+            "description": "Convert any selected text into a QR code.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/qrthis/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/qrThis/",
+            "keywords": "qrthis qr this code"
+        },
+        {
+            "slug": "reloadrepeat",
+            "type": 2,
+            "name": "ReloadRepeat",
+            "description": "Reloads webpages every so many seconds or minutes.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/reloadrepeat/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/ReloadRepeat/",
+            "keywords": "reloadrepeat reload repeat every interval"
+        },
+        {
+            "slug": "ex-006",
+            "type": 2,
+            "name": "Secret Agent",
+            "description": "Continuously randomizes your HTTP user agent to suppress device fingerprinting and resist web tracking.",
+            "owners": [12],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-006/icon.png",
+            "externalUrl": "https://www.dephormation.org.uk/?page=81",
+            "keywords": "secret agent fingerprint finger print track tracking"
+        },
+        {
+            "slug": "ex-034",
+            "type": 2,
+            "name": "TimerFox",
+            "description": "Easily counts down from a predefined number and alarms you when the count has reached zero.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-034/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/TimerFox/",
+            "keywords": "timerfox timer fox count down alarm countdown"
+        },
+        {
+            "slug": "ex-037",
+            "type": 2,
+            "name": "Track Package",
+            "description": "Track Packages from the right-click menu.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-037/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Track-Package/",
+            "keywords": "track package delivery parcel"
+        },
+        {
+            "slug": "unplug",
+            "type": 2,
+            "name": "Unplug",
+            "description": "Show a prompt when a new plugin is installed.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/unplug/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Unplug/",
+            "keywords": "unplug un plug plugin prompt"
+        },
+        {
+            "slug": "utube",
+            "type": 2,
+            "name": "uTube",
+            "description": "Show an embedded video on a simple blank page when visiting a YouTube video link.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/utube/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/uTube/",
+            "keywords": "utube youtube video"
+        },
+        {
+            "slug": "windosize",
+            "type": 2,
+            "name": "Windosize",
+            "description": "Provides a menu and status bar to resize the window outer dimensions to a specific size.",
+            "owners": [5],
+            "iconUrl": "https://addons.palemoon.org/datastore/addons/windosize/icon.png",
+            "externalUrl": "https://realityripple.com/Software/Mozilla-Extensions/Windosize/",
+            "keywords": "windosize window size resize shrink enlarge"
         }
     ]
 }
