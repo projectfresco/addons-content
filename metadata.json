@@ -2160,7 +2160,7 @@
             "description": "A lightweight, fast, and privacy-focused email client.",
             "owners": [-1],
             "iconUrl": "/addons-content/icons/epyrus.png",
-            "appUrl": "https://www.epyrus.org/"
+            "appUrl": "http://www.epyrus.org/"
         },
         {
             "slug": "app-04",
