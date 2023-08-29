@@ -2162,6 +2162,15 @@
             "appUrl": "https://github.com/Ascrod/ambassador/"
         },
         {
+            "slug": "app-05",
+            "type": 1,
+            "name": "SeaLion",
+            "description": "Web browser for MacOS 10.7 - 12.6 and Linux.",
+            "owners": [-1],
+            "iconUrl": "/addons-content/icons/sealion.png",
+            "appUrl": "https://github.com/wicknix/SeaLion/releases"
+        },
+        {
             "slug": "ex-033",
             "type": 2,
             "name": "About Add-ons",
