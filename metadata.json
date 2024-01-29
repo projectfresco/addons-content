@@ -2371,16 +2371,6 @@
             "keywords": "reloadrepeat reload repeat every interval"
         },
         {
-            "slug": "ex-006",
-            "type": 2,
-            "name": "Secret Agent",
-            "description": "Continuously randomizes your HTTP user agent to suppress device fingerprinting and resist web tracking.",
-            "owners": [12],
-            "iconUrl": "https://addons.palemoon.org/datastore/addons/ex-006/icon.png",
-            "externalUrl": "https://www.dephormation.org.uk/?page=81",
-            "keywords": "secret agent fingerprint finger print track tracking"
-        },
-        {
             "slug": "ex-034",
             "type": 2,
             "name": "TimerFox",
