@@ -108,6 +108,10 @@
         {
             "username": "janekptacijarabaci",
             "displayName": "janekptacijarabaci"
+        },
+        {
+            "username": "UCyborg",
+            "displayName": "UCyborg"
         }
     ],
     "types": [
@@ -1751,12 +1755,12 @@
             "type": 2,
             "name": "uBlock Origin",
             "description": "Finally, an efficient blocker. Easy on CPU and memory.",
-            "owners": [7, 11],
-            "iconUrl": "https://raw.githubusercontent.com/gorhill/uBlock-for-firefox-legacy/master/src/img/ublock.svg",
+            "owners": [14, 7, 11],
+            "iconUrl": "https://raw.githubusercontent.com/UCyborg/uBlock-for-firefox-legacy/master/src/img/ublock.svg",
             "license": "GPL-3.0",
-            "keywords": "ubo adblock",
+            "keywords": "ubo adblock plus",
             "ghInfo": {
-                "owner": "gorhill",
+                "owner": "UCyborg",
                 "repo": "uBlock-for-firefox-legacy"
             }
         },
